@@ -36,16 +36,16 @@ Target companies:
 
 ### Questions 1-100
 
-1. Find the largest element in an array ✅
-2. Find the second largest element in an array ✅
-3. Check if an array is sorted ✅
-4. Remove duplicates from a sorted array ✅
-5. Left rotate an array by one place ✅
-6. Left rotate an array by `k` places ✅
-7. Move all zeroes to the end ✅
-8. Find the union of two sorted arrays ✅
-9. Find the intersection of two arrays ✅
-10. Find the missing number in an array from `1` to `n`
+✅ 1. Find the largest element in an array 
+✅ 2. Find the second largest element in an array 
+✅ 3. Check if an array is sorted 
+✅ 4. Remove duplicates from a sorted array 
+✅ 5. Left rotate an array by one place 
+✅ 6. Left rotate an array by `k` places 
+✅ 7. Move all zeroes to the end 
+✅ 8. Find the union of two sorted arrays 
+✅ 9. Find the intersection of two arrays 
+✅ 10. Find the missing number in an array from `1` to `n`
 11. Find the element that appears once
 12. Find the maximum consecutive ones
 13. Find the number that appears once using XOR
