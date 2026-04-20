@@ -49,11 +49,11 @@ Target companies:
 11. Find the element that appears once ✅
 12. Find the maximum consecutive ones ✅
 13. Find the number that appears once using XOR ✅
-14. Find the longest subarray with given sum for positive numbers
-15. Two Sum problem
-16. Sort an array of `0s`, `1s`, and `2s`
-17. Majority element using counting
-18. Kadane's algorithm for maximum subarray sum
+14. Find the longest subarray with given sum for positive numbers ✅
+15. Two Sum problem ✅
+16. Sort an array of `0s`, `1s`, and `2s` ✅
+17. Majority element using counting ✅
+18. Kadane's algorithm for maximum subarray sum 
 19. Rearrange array by sign
 20. Best time to buy and sell stock
 21. Leaders in an array
