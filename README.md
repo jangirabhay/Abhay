@@ -46,9 +46,9 @@ Target companies:
 8. Find the union of two sorted arrays ✅
 9. Find the intersection of two arrays ✅
 10. Find the missing number in an array from `1` to `n`✅
-11. Find the element that appears once
-12. Find the maximum consecutive ones
-13. Find the number that appears once using XOR
+11. Find the element that appears once ✅
+12. Find the maximum consecutive ones ✅
+13. Find the number that appears once using XOR ✅
 14. Find the longest subarray with given sum for positive numbers
 15. Two Sum problem
 16. Sort an array of `0s`, `1s`, and `2s`
