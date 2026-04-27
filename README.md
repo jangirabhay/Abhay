@@ -1,6 +1,6 @@
-# Placement DSA Sheet for Students
+# Placement DSA Sheet for Me
 
-This document is made for students who want to crack placement interviews step by step.
+This document is made for me who want to crack placement interviews step by step.
 
 We divide preparation into 3 levels:
 
