@@ -54,12 +54,12 @@ Target companies:
 16. Sort an array of `0s`, `1s`, and `2s` ✅
 17. Majority element using counting ✅
 18. Kadane's algorithm for maximum subarray sum 
-19. Rearrange array by sign
+19. Rearrange array by sign ✅
 20. Best time to buy and sell stock ✅
-21. Leaders in an array
+21. Leaders in an array ✅
 22. Spiral traversal of a matrix
 23. Count subarrays with given sum
-24. Set matrix zeroes
+24. Set matrix zeroes ✅
 25. Rotate matrix by 90 degrees
 26. Print matrix diagonally
 27. Reverse an array
