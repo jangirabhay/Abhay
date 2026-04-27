@@ -55,7 +55,7 @@ Target companies:
 17. Majority element using counting ✅
 18. Kadane's algorithm for maximum subarray sum 
 19. Rearrange array by sign
-20. Best time to buy and sell stock
+20. Best time to buy and sell stock ✅
 21. Leaders in an array
 22. Spiral traversal of a matrix
 23. Count subarrays with given sum
