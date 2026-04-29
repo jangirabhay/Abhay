@@ -62,8 +62,8 @@ Target companies:
 24. Set matrix zeroes ✅
 25. Rotate matrix by 90 degrees
 26. Print matrix diagonally
-27. Reverse an array
-28. Reverse a string
+27. Reverse an array ✅
+28. Reverse a string 
 29. Check palindrome string
 30. Count vowels and consonants in a string
 31. Remove spaces from a string
