@@ -60,8 +60,8 @@ Target companies:
 22. Spiral traversal of a matrix
 23. Count subarrays with given sum
 24. Set matrix zeroes ✅
-25. Rotate matrix by 90 degrees
-26. Print matrix diagonally
+25. Rotate matrix by 90 degrees ✅
+26. Print matrix diagonally 
 27. Reverse an array ✅
 28. Reverse a string 
 29. Check palindrome string
