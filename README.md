@@ -63,12 +63,12 @@ Target companies:
 25. Rotate matrix by 90 degrees ✅
 26. Print matrix diagonally 
 27. Reverse an array ✅
-28. Reverse a string 
+28. Reverse a string ✅
 29. Check palindrome string
-30. Count vowels and consonants in a string
+30. Count vowels and consonants in a string ✅
 31. Remove spaces from a string
 32. Toggle each character case
-33. Find frequency of characters in a string
+33. Find frequency of characters in a string 
 34. Check if two strings are anagrams
 35. Find duplicate characters in a string
 36. Find first non-repeating character
